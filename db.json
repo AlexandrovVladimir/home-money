@@ -4,17 +4,13 @@
       "id": 1,
       "email": "test@gmail.com",
       "password": "12345678",
-      "firstName": "Vladimir",
-      "lastName": "Zinchuk",
-      "name": "test"
+      "name": "Vladimir Zinchuk"
     },
     {
       "id": 2,
       "email": "test2@gmail.com",
       "password": "12345678",
-      "firstName": "Evheniya",
-      "lastName": "Elsukova",
-      "name": "test2"
+      "name": "Evheniya Elsukova"
     },
     {
       "email": "test22@gmail.com",
